@@ -2,7 +2,7 @@ We are a sports visual tracking technology company. We use
 Artificial Intelligence to automatically mine deep data from
 sports videos in real time.
                 
-We are a team of hardcore computer vision engineers and at
+We are a team of hardcore computer vision engineers and software development engineers, at
 Matchday.ai we are combing our love for sports and tech to
 create state of the art visual tracking systems for multiple
 sports. We are already working with some of the biggest name
